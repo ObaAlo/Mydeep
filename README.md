@@ -1,5 +1,5 @@
 # Mydeep
-<h1>Hi, I'm Ebisa! <br/><a href="https://github.com/ObaAlo">Programmer</a>, <a href="https://www.linkedin.com/in/ebisa-bekele-481499113/">Computer SC\cience professionals</a>, <a hef= "https://www.linkedin.com/in/ebisa-bekele-481499113/">YouTuber</a></h1>
+<h1>Hi, I'm Ebisa! <br/><a href="https://github.com/ObaAlo">Programmer</a>, <a href="https://www.linkedin.com/in/ebisa-bekele-481499113/">Computer Science professionals</a>, <a hef= "https://www.linkedin.com/in/ebisa-bekele-481499113/">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
