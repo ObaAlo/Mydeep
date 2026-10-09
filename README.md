@@ -5,14 +5,15 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-- <b> version control softwares</b>
+- <b>Full Stack Web App (Frontend, Backend, Data base)(React, NodeJS, PostgreSQL, MongoDB, Azure, and Machine Learning Components)</b>
+- <b> version control softwares(Git)</b>
   
-- <b>programming languages ()</b>
- 
+- <b>programming languages (C++, Python, C#, Java, JavaScript, php)</b>
+- <h2> Machine Learning, Deep Learning, AI, Block Chain</h2>
 - <b>frame works and libraries</b>
 
 <h2>📺 Popular YouTube Videos</h2>
+
 
 <h2> 🤳 Connect with me:</h2>
 
