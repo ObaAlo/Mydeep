@@ -1,6 +1,6 @@
 # Mydeep
-<h1>Hi, I'm Ebisa! <br/><a href="https://github.com/ObaAlo">Programmer</a>, <a href="https://www.linkedin.com/in/ebisa-bekele-481499113/">Computer Science professionals</a>, <a hef= "https://www.linkedin.com/in/ebisa-bekele-481499113/">YouTuber</a></h1>
-
+<h1>Hi, I'm Ebisa! <br/><a href="https://github.com/ObaAlo">Programmer</a>, <a href="https://www.linkedin.com/in/ebisa-bekele-481499113/">Computer Science professionals</a>, <a hef= "https://www.linkedin.com/in/ebisa-bekele-481499113/">Lecturer</a> <a hef= "https://www.linkedin.com/in/ebisa-bekele-481499113/">Researcher</a> <a hef= "https://www.linkedin.com/in/ebisa-bekele-481499113/">YouTuber</a></h1>
+ 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
